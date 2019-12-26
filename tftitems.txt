@@ -1,0 +1,36 @@
+Infinity Edge,BF Sword,BF Sword,+40 AD,Gives 100% critical damage
+Sword Of The Divine,BF Sword,Recurve Bow,+20 AD +15% AS,Every sec 5% chance for 100% critical chance until the end of combat
+Hextech Gunblade,BF Sword,Needlessly Large Rod,+20 AD +20 AP,Heal for 25% of damage dealt
+Spear Of Shojin,BF Sword,Tear Of The Goddess,+20 AD +20 Mana,After casting an ability for the first time basic attacks restore 15% of maximum mana on-hit
+Guardian Angel,BF Sword,Chain Vest,+20 AD +20 Armor,After death revive with 500 health
+Bloodthirster,BF Sword,Negatron Cloak,+20 AD +20 MR,Heal for 50% of damage dealt by basic attacks
+Zeke's Herald,BF Sword,Giant's Belt,+20 AD +200 HP,Adjacent allies gain 10% attack speed
+Yoummuu's Ghostblade,BF Sword,Spatula,+20 AD,Becomes an Assassin
+Rapid Firecannon,Recurve Bow,Recurve Bow,+30% AS,Doubles attack range and attacks cannot miss
+Guinsoo's Rageblade,Recurve Bow,Needlessly Large Rod,+20 AP +15 AS,Gain 3% attack speed on hit without limit on stacks
+Statikk Shiv,Recurve Bow,Tear Of The Goddess,+15 AS +20 Mana,Every third attack 100 splash damage
+Phantom Dancer,Recurve Bow,Chain Vest,+15 AS% +20 Armor,Dodges all critical attacks
+Cursed Blade,Recurve Bow,Negatron Cloak,+15 AS +20 MR,20% chance to remove an enemy champion star
+Titanic Hydra,Recurve Bow,Giant's Belt,+15 AS +200 HP,Every attack deals 10% of your maximum health as damage and splashes
+Blade Of The Ruined King,Recurve Bow,Spatula,+15% AS,Becomes a Blademaster
+Rabadon's Deathcap,Needlessly Large Rod,Needlessly Large Rod,+40 AP,Unique: Increases ability damage by 50%
+Luden's Echo,Needlessly Large Rod,Tear Of The Goddess,+20 AP +20 Mana,Every ability does 200 splash damage
+Locket Of The Iron Solari,Needlessly Large Rod,Chain Vest,+20 AP +20 Armor,At the beginning of combat all adjacent allies gain 200 health as shield
+Ionic Spark,Needlessly Large Rod,Negatron Cloak,+20 AP +20 MR,Enemies take 200 magic damage whenever they cast an ability
+Morellonomicon,Needlessly Large Rod,Giant's Belt,+20 AP +200 HP,Spells deal burn damage equal to 5% of the enemy's max Health
+Yuumi,Needlessly Large Rod,Spatula,+20 AP,Wearer is also a Sorcerer
+Seraph's Embrace,Tear Of The Goddess,Tear Of The Goddess,+40 Mana,Regain 20 mana after each spell cast
+Frozen Heart,Tear Of The Goddess,Chain Vest,+20 Armor +20 Mana,Adjacent enemies lose 20% Attack Speed
+Hush,Tear Of The Goddess,Negatron Cloak,+20 MR +20 Mana,High chance to silence on hit
+Redemption,Tear Of The Goddess,Giant's Belt,+20 Mana +200 HP,On death heals nearby allies for 1000 Health
+Darkin,Tear Of The Goddess,Spatula,+20 Mana,Wearer is also a Demon
+Thornmail,Chain Vest,Chain Vest,+40 Armor,Reflect 35% of Attack Damage taken
+Sword Breaker,Chain Vest,Negatron Cloak,+20 Armor +20 MR,Attacks have a chance to disarm
+Red Buff,Chain Vest,Giant's Belt,+20 Armor +200 HP,Attacks burn for 2.5% max Health
+Knight's Vow, Chain Vest,Spatula,+20 Armor,Wearer is also a Knight
+Dragon's Claw,Negatron Cloak,Negatron Cloak,+40 MR,Gain 83% Magic Resistance
+Zephyr,Negatron Cloak,Giant's Belt,+20 MR +200 HP,On combat start banish an enemy for 5 seconds
+Runaan's Hurricane,Negatron Cloak,Spatula,+20 MR,Attack 2 extra targets on attack. Extra attacks deal 50% damage
+Warmog's Armor,Giant's Belt,Giant's Belt,+400 HP,Regenerate 3% max Health per second
+Frozen Mallet,Giant's Belt,Spatula,+200 HP,Wearer is also Glacial
+Force Of Nature,Spatula,Spatula,-,Gain +1 team size

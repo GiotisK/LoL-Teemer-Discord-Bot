@@ -1,0 +1,7 @@
+Malzahar:Shadow,Summoner,
+Rek'Sai:Steel,Predator	Varus:Inferno,Ranger	Kog'Maw:Poison,Predator	Maokai:Woodland,Druid	Renekton:Desert,Berserker	Vladimir:Ocean,Mage	Zyra:Inferno,Summoner	Syndra:Ocean,Mage	Thresh:Ocean,Warden,
+Volibear:Electric,Berserker,Glacial	Warwick:Glacial,Predator	Braum:Glacial,Warden	Vayne:Light,Ranger	Ivern:Woodland,Druid	Nasus:Light,Warden	Ornn:Light,Warden	Taliyah:Mountain,Mage	Diana:Inferno,Assassin	Jax:Light,Berserker	Neeko:Woodland,Druid	Skarner:Crystal,Predator,
+Kha'Zix:Desert,Assassin	Brand:Inferno,Mage	Ashe:Crystal,Ranger	Kindred:Phantom,Ranger	Kindred:Inferno,Ranger,Shadow	Sivir:Desert,Blademaster	Janna:Cloud,Mystic	Malphite:Mountain,Warden	Olaf:Glacial,Berserker,
+Aatrox:Light,Blademaster	Ezreal:Glacial,Ranger	Azir:Desert,Summoner	Dr Mundo:Poison,Berserker	Nautilus:Ocean,Warden	Nocturne:Steel,Assassin	Qiyana:Variable,Assassin	Sion:Shadow,Berserker	Annie:Inferno,Summoner	Twitch:Poison,Ranger,
+Veigar:Shadow,Mage	Soraka:Light,Mystic,
+Zed:Electric,Assassin,Summoner	Master Yi:Shadow,Blademaster,Mystic	Nami:Ocean,Mystic	Singed:Poison,Alchemist	Taric:Crystal,Warden	Lux:Variable,Avatar,
